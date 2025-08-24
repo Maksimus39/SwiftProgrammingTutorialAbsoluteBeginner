@@ -1,11 +1,3 @@
-//
-//  main.swift
-//  SwiftProgrammingTutorialAbsoluteBeginner
-//
-//  Created by Максим Минаков on 22.08.2025.
-//
+// types
 
-import Foundation
-
-print("Hello, World!")
-
+var hightScores : Int = 0
